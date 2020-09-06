@@ -1,0 +1,9 @@
+body{
+  background-image: url(images-1/image.jpg);
+  text-align: center;
+  padding: 100px;
+}
+.image{
+  width: 200px;
+  height: auto;
+}
